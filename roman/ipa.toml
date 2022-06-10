@@ -1,3 +1,4 @@
+# TODO!: compare with that PDF src also?
 [vowels]
 "अ" = "ɐ"
 "आ" = "aː"
@@ -61,19 +62,19 @@
 "ङ" = "ŋ"
 "च" = "tɕ" # wiki/Help:IPA/Sanskrit: tɕ, wiki/Devanagari: tʃ
 "छ" = "tɕʰ"
+"ज" = "dʑ" # wiki/Help:IPA/Sanskrit: dʑ, wiki/Devanagari: dʒ
+"झ" = "dʑʱ" # wiki/Help:IPA/Sanskrit: dʑʱ, wiki/Devanagari: dʒʱ
+"ञ" = "ɲ"
+"ट" = "ʈ"
+"ठ" = "ʈʰ"
+"ड" = "ɖ"
+"ढ" = "ɖʱ"
+"ण" = "ɳ"
+"त" = "t" # wiki/Help:IPA/Sanskrit: t, wiki/Devanagari: t̪
+"थ" = "tʰ" # wiki/Help:IPA/Sanskrit: tʰ, wiki/Devanagari: t̪ʰ
+"द" = "d" # wiki/Help:IPA/Sanskrit: d, wiki/Devanagari: d̪
+"ध" = "dʱ" # wiki/Help:IPA/Sanskrit: dʱ, wiki/Devanagari: d̪ʱ
 # TODO!!: continue:
-"ज" = "j"
-"झ" = "jh"
-"ञ" = "ñ"
-"ट" = "ṭ"
-"ठ" = "ṭh"
-"ड" = "ḍ"
-"ढ" = "ḍh"
-"ण" = "ṇ"
-"त" = "t"
-"थ" = "th"
-"द" = "d"
-"ध" = "dh"
 "न" = "n"
 "प" = "p"
 "फ" = "ph"
